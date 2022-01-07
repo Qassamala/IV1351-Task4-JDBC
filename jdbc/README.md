@@ -1,7 +1,3 @@
-# Introdction to JDBC
-
-A short Java program giving an overview of JDBC concepts.
-
 ## How to execute
 
 1. Clone this git repository.
