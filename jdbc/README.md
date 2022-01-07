@@ -1,9 +1,9 @@
 ## How to execute
 
 1. Clone this git repository.
-1. Change to the newly created directory `cd jdbc-intro`
+1. Change to the newly created directory `cd jdbc`
 1. Make sure there is a database which can be reached with the url on lines
-   43-44 or the url on lines 47-48. There are two ways to do this.
+   43-44 or the url on lines 58-59. There are two ways to do this.
    1. Create a database that can be reached with one of the existing urls. If
       postgres is used, that is a database called simplejdbc, wich can be
       reached on port 5432 at localhost, by the user 'postgres' with the
